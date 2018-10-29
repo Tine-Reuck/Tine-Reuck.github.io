@@ -778,7 +778,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/drp04.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -787,7 +787,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Druckprüfung Hochdruckpumpe",
+                "title": "Produkt des Monats",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Wählen Sie aus einer großen Auswahl der jüngsten voreingestellten Blocks - Jumbotrons, Heldenbilder, Parallax-Scrolling, Videohintergründe und so weiter.",
@@ -831,7 +831,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/k-adapter.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
